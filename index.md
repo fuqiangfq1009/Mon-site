@@ -6,55 +6,50 @@ C'est un chien.
 
 [Don't click ici!!!](https://fr.wikipedia.org/wiki/Chien)
 [![单击按钮，手指单击-单击此处web按钮-孤立网站手指点击光标-—-矢量-股票矢量-164541958](https://github.com/user-attachments/assets/bb7b7f9c-f57b-48fa-ac84-94c2f7c421e0)](https://mail.google.com/mail/u/0/#inbox/FMfcgzQcpnPVlgHdDgggdmfsJDllDbCQ)
+<p>&nbsp;</p>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Découvrez la Chine - Voyage en Chine</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <title>Voyage en Chine - Découvrez la Chine</title>
     <style>
-        /* 基础样式 */
+        /* Styles de base */
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-family: Arial, sans-serif;
         }
         
         body {
-            background-color: #f8f9fa;
+            background-color: #f5f5f5;
             color: #333;
             line-height: 1.6;
-            overflow-x: hidden;
         }
         
         .container {
             max-width: 1200px;
             margin: 0 auto;
-            padding: 0 20px;
+            padding: 0 15px;
         }
         
-        /* 导航栏 */
+        /* En-tête */
         header {
-            background-color: #fff;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-            position: sticky;
-            top: 0;
-            z-index: 1000;
+            background-color: #c00;
+            color: white;
+            padding: 15px 0;
         }
         
         nav {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            padding: 20px 0;
         }
         
         .logo {
             font-size: 24px;
             font-weight: bold;
-            color: #d32f2f;
         }
         
         .nav-links {
@@ -63,24 +58,51 @@ C'est un chien.
         }
         
         .nav-links li {
-            margin-left: 30px;
+            margin-left: 20px;
         }
         
         .nav-links a {
+            color: white;
             text-decoration: none;
-            color: #333;
-            font-weight: 500;
-            transition: color 0.3s;
+            padding: 5px 10px;
         }
         
         .nav-links a:hover {
-            color: #d32f2f;
+            background-color: #a00;
+            border-radius: 3px;
         }
         
-        .menu-toggle {
-            display: none;
-            font-size: 1.5rem;
-            cursor: pointer;
+        /* Section héros */
+        .hero {
+            text-align: center;
+            padding: 60px 0;
+            background-color: #fff;
+            border-radius: 5px;
+            margin: 30px 0;
         }
         
-  
+        .hero h1 {
+            font-size: 2.5em;
+            margin-bottom: 15px;
+            color: #c00;
+        }
+        
+        .hero p {
+            font-size: 1.2em;
+            max-width: 800px;
+            margin: 0 auto 30px;
+        }
+        
+        .btn {
+            display: inline-block;
+            background-color: #c00;
+            color: white;
+            padding: 12px 25px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        
+        .btn:hover {
+            background-color: #a00;
+        }
