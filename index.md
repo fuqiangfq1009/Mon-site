@@ -7,7 +7,8 @@ C'est un chien.
 [Don't click ici!!!](https://fr.wikipedia.org/wiki/Chien)
 [![单击按钮，手指单击-单击此处web按钮-孤立网站手指点击光标-—-矢量-股票矢量-164541958](https://github.com/user-attachments/assets/bb7b7f9c-f57b-48fa-ac84-94c2f7c421e0)](https://mail.google.com/mail/u/0/#inbox/FMfcgzQcpnPVlgHdDgggdmfsJDllDbCQ)
 <p>&nbsp;</p>
-<!DOCTYPE html>
+
+
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
