@@ -1,4 +1,20 @@
-
+<style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #8B0000, #B22222, #DC143C);
+            color: #fff;
+            min-height: 100vh;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
 # Mon-site
 C'est un chien.
 [Click ici](https://fr.wikipedia.org/wiki/Chien)
@@ -209,5 +225,5 @@ C'est un chien.
         <section class="hero">
             <h1>Découvrez la Chine</h1>
             <p>Un pays aux mille visages, riche en histoire et en paysages spectaculaires. Explorez la culture millénaire et les merveilles naturelles de la Chine.</p>
-            <a href="#" class="btn"[Commencer l'aventure](https://fr.wikipedia.org/wiki/Chien) </a> 
+            <a href="#" class="btn"Commencer l'aventure(https://fr.wikipedia.org/wiki/Chien) </a> 
         </section> 
