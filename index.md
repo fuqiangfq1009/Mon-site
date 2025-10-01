@@ -214,7 +214,5 @@ C'est un chien.
         <section class="hero">
             <h1>Découvrez la Chine</h1>
             <p>Un pays aux mille visages, riche en histoire et en paysages spectaculaires. Explorez la culture millénaire et les merveilles naturelles de la Chine.</p>
-            <a href="#" class="btn">Commencer l'aventure</a>
-        </section>
-
-background: linear-gradient(135deg, #FF0000, #FF4D4D, #CC0000);
+            <a href="#" class="btn">Commencer l'aventure</a> (https://fr.wikipedia.org/wiki/Chien)
+        </section> 
