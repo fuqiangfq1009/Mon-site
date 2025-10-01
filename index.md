@@ -6,7 +6,6 @@ C'est un chien.
 
 [Don't click ici!!!](https://fr.wikipedia.org/wiki/Chien)
 [![单击按钮，手指单击-单击此处web按钮-孤立网站手指点击光标-—-矢量-股票矢量-164541958](https://github.com/user-attachments/assets/bb7b7f9c-f57b-48fa-ac84-94c2f7c421e0)](https://mail.google.com/mail/u/0/#inbox/FMfcgzQcpnPVlgHdDgggdmfsJDllDbCQ)
-<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -212,44 +211,7 @@ C'est un chien.
             <a href="#" class="btn">Commencer l'aventure</a>
         </section>
 
-        <!-- Section destinations -->
-        <h2 class="section-title">Destinations Populaires</h2>
-        <div class="destinations">
-            <div class="destination">
-                <img src="https://images.unsplash.com/photo-1508804185872-d7badad00f7d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Grande Muraille">
-                <div class="destination-content">
-                    <h3>Grande Muraille</h3>
-                    <p>Découvrez l'une des merveilles du monde, serpentant à travers les montagnes sur plus de 20 000 km.</p>
-                </div>
-            </div>
-            
-            <div class="destination">
-                <img src="https://images.unsplash.com/photo-1547981609-4b6bf67b7d12?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Armée de terre cuite">
-                <div class="destination-content">
-                    <h3>Armée de Terre Cuite</h3>
-                    <p>Visitez le mausolée de l'empereur Qin à Xi'an et découvrez cette incroyable armée de soldats en terre cuite.</p>
-                </div>
-            </div>
-            
-            <div class="destination">
-                <img src="https://images.unsplash.com/photo-1518638150340-f706e86654de?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Rizières en terrasse">
-                <div class="destination-content">
-                    <h3>Rizières de Yuanyang</h3>
-                    <p>Admirez ces paysages spectaculaires façonnés par l'homme dans la province du Yunnan.</p>
-                </div>
-            </div>
-        </div>
 
-        <!-- Section à propos -->
-        <section class="about">
-            <h2>À propos de la Chine</h2>
-            <p>La Chine est un vaste pays d'Asie de l'Est avec un paysage varié comprenant des prairies, des déserts, des montagnes, des lacs, des rivières et plus de 14 000 km de côtes. La capitale, Pékin, mêle l'architecture moderne aux sites historiques comme le palais de la Cité interdite et la place Tian'anmen.</p>
-            <p>Avec une histoire de plus de 5 000 ans, la Chine offre une richesse culturelle incomparable, alliant traditions ancestrales et modernité. Des métropoles futuristes comme Shanghai côtoient des villages traditionnels préservés.</p>
-        </section>
-    </div>
-
-    <!-- Pied de page -->
-    <footer>
         <div class="container">
             <p>&copy; 2023 Voyage en Chine - Site créé pour un projet scolaire</p>
         </div>
