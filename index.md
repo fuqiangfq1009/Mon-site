@@ -208,5 +208,5 @@ C'est un chien.
         <section class="hero">
             <h1>Découvrez la Chine</h1>
             <p>Un pays aux mille visages, riche en histoire et en paysages spectaculaires. Explorez la culture millénaire et les merveilles naturelles de la Chine.</p>
-            <a href="[#](https://html-online.com/)" class="btn"Commencer l'aventure</a> 
+            <a href="https://html-online.com/" class="btn"Commencer l'aventure</a> 
         </section> 
