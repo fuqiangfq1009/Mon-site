@@ -211,45 +211,4 @@ C'est un chien.
             <a href="#" class="btn">Commencer l'aventure</a>
         </section>
 
-
-
-# Mon-site
-
-C'est un chien.
-
-[Click ici](https://fr.wikipedia.org/wiki/Chien)
-
-[![Image de chien](https://github.com/user-attachments/assets/7ce63cf7-f618-4255-9868-c8a4ac0f3814)](https://fr.wikipedia.org/wiki/Chien)
-
-[Don't click ici!!!](https://fr.wikipedia.org/wiki/Chien)
-
-[![Bouton clic](https://github.com/user-attachments/assets/bb7b7f9c-f57b-48fa-ac84-94c2f7c421e0)](https://mail.google.com/mail/u/0/#inbox/FMfcgzQcpnPVlgHdDgggdmfsJDllDbCQ)
-
----
-
-## Voyage en Chine - Découvrez la Chine
-
-### À propos de ce site
-
-Ce site présente la Chine comme destination de voyage, avec ses paysages spectaculaires et sa culture millénaire.
-
-### Sections principales
-
-- **Accueil** - Présentation générale
-- **Destinations** - Lieux à visiter
-- **Culture** - Traditions chinoises
-- **Conseils** - Informations pratiques
-- **Contact** - Nous contacter
-
-### Caractéristiques du site
-
-- Design moderne et responsive
-- Navigation intuitive
-- Contenu en français
-- Informations sur les destinations populaires
-
----
-
-*Ce site a été créé dans le cadre d'un projet scolaire.*
-
-     
+background: linear-gradient(135deg, #FF0000, #FF4D4D, #CC0000);
