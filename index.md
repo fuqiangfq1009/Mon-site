@@ -1,3 +1,9 @@
+body {
+margin: 0;
+padding: 0;
+height: 100vh;
+background: linear-gradient(135deg, #FF0000, #8B0000);
+}
 # Mon-site
 C'est un chien.
 [Click ici](https://fr.wikipedia.org/wiki/Chien)
