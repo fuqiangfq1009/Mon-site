@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -92,7 +91,7 @@
         }
         
         .btn:hover {
-            background-color: #a00;
+            background-color: #a23;
         }
         
         footer {
@@ -141,11 +140,3 @@
             <a href="https://fr.wikipedia.org/wiki/Chine" class="btn">Commencer l'aventure</a>
         </section>
     </div>
-
-    <footer>
-        <div class="container">
-            <p>&copy; 2023 Voyage en Chine</p>
-        </div>
-    </footer>
-</body>
-</html>
