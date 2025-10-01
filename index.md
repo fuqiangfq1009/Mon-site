@@ -1,20 +1,3 @@
-<style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
-        
-        body {
-            background: linear-gradient(135deg, #8B0000, #B22222, #DC143C);
-            color: #fff;
-            min-height: 100vh;
-            padding: 20px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
 # Mon-site
 C'est un chien.
 [Click ici](https://fr.wikipedia.org/wiki/Chien)
