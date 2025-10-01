@@ -138,7 +138,7 @@
         <section class="hero">
             <h1>Découvrez la Chine</h1>
             <p>Un pays aux mille visages, riche en histoire et en paysages spectaculaires. Explorez la culture millénaire et les merveilles naturelles de la Chine.</p>
-            <a href="#" class="btn">Commencer l'aventure</a>
+            <a href="https://fr.wikipedia.org/wiki/Chine" class="btn">Commencer l'aventure</a>
         </section>
     </div>
 
