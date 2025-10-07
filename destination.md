@@ -61,7 +61,7 @@
 - 🚣 Croisière sur la rivière Li
 - 🚴 Randonnée à vélo à Yangshuo
 - 🎭 Spectacle "Impression Sanjie Liu"
-- 
+  
 🔗Cliquez ici pour explorer davantage.
 ---
 
