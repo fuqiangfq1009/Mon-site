@@ -12,6 +12,7 @@
 - **Jiankou** : Sauvage et authentique
 
 **📌 Conseil** : Visiter tôt le matin pour éviter la foule
+
 **🔗Cliquez ici pour explorer davantage.
 ---
 
@@ -27,6 +28,7 @@
 - La Salle de l'Harmonie Suprême
 - Le Palais de la Pureté Céleste
 - Le Jardin impérial
+  
 **🔗Cliquez ici pour explorer davantage.
 ---
 
@@ -44,6 +46,7 @@
 | N°1 | 6 000 soldats en formation |
 | N°2 | Chars et cavalerie |
 | N°3 | Poste de commandement |
+
 **🔗Cliquez ici pour explorer davantage.
 ---
 
@@ -58,6 +61,7 @@
 - 🚣 Croisière sur la rivière Li
 - 🚴 Randonnée à vélo à Yangshuo
 - 🎭 Spectacle "Impression Sanjie Liu"
+- 
 **🔗Cliquez ici pour explorer davantage.
 ---
 
@@ -68,4 +72,5 @@
 
 **🕘 Meilleur moment** : 8h-10h (pandas actifs)
 **🎯 Expérience** : Volontariat possible
+
 **🔗Cliquez ici pour explorer davantage.
