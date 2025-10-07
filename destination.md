@@ -14,6 +14,7 @@
 **📌 Conseil** : Visiter tôt le matin pour éviter la foule
 
 🔗Cliquez ici pour explorer davantage.
+
 ---
 
 ## 🏮 Cité Interdite - Pékin
@@ -30,6 +31,7 @@
 - Le Jardin impérial
   
 🔗Cliquez ici pour explorer davantage.
+
 ---
 
 ## 🪖 Armée de Terre Cuite - Xi'an
@@ -48,6 +50,7 @@
 | N°3 | Poste de commandement |
 
 🔗Cliquez ici pour explorer davantage.
+
 ---
 
 ## 🏞️ Guilin & Yangshuo
