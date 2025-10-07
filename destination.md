@@ -12,7 +12,7 @@
 - **Jiankou** : Sauvage et authentique
 
 **📌 Conseil** : Visiter tôt le matin pour éviter la foule
-
+**🔗Cliquez ici pour explorer davantage.
 ---
 
 ## 🏮 Cité Interdite - Pékin
@@ -27,12 +27,13 @@
 - La Salle de l'Harmonie Suprême
 - Le Palais de la Pureté Céleste
 - Le Jardin impérial
-
+**🔗Cliquez ici pour explorer davantage.
 ---
 
 ## 🪖 Armée de Terre Cuite - Xi'an
 
-![Terra Cotta](https://example.com/terracotta.jpg)
+<img width="1050" height="700" alt="image" src="https://github.com/user-attachments/assets/bf25a659-8f42-4df7-97fa-e81df6b96cd1" />
+
 
 **📅 Découverte** : 1974
 **👑 Empereur** : Qin Shi Huang
@@ -43,12 +44,13 @@
 | N°1 | 6 000 soldats en formation |
 | N°2 | Chars et cavalerie |
 | N°3 | Poste de commandement |
-
+**🔗Cliquez ici pour explorer davantage.
 ---
 
 ## 🏞️ Guilin & Yangshuo
 
-![Guilin](https://example.com/guilin.jpg)
+<img width="1024" height="674" alt="image" src="https://github.com/user-attachments/assets/ab961bc8-4fb9-401b-87c8-7725c78fdf12" />
+
 
 **🎨 Paysages** : Collines karstiques et rivière Li
 
@@ -56,14 +58,14 @@
 - 🚣 Croisière sur la rivière Li
 - 🚴 Randonnée à vélo à Yangshuo
 - 🎭 Spectacle "Impression Sanjie Liu"
-
+**🔗Cliquez ici pour explorer davantage.
 ---
 
 ## 🐼 Chengdu - Sanctuaire des Pandas
 
-![Pandas](https://example.com/pandas.jpg)
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/0c2ab695-3eec-4bba-aa23-bef6b2f9676a" />
+
 
 **🕘 Meilleur moment** : 8h-10h (pandas actifs)
 **🎯 Expérience** : Volontariat possible
-
-### Informations pratiques :
+**🔗Cliquez ici pour explorer davantage.
