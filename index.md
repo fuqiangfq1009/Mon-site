@@ -124,7 +124,7 @@
                 <div class="logo">Voyage en Chine</div>
                 <ul class="nav-links">
                     <li><a href="https://fuqiangfq1009.github.io/Mon-site/test1">Accueil</a></li>
-                    <li><a href="https://fuqiangfq1009.github.io/Mon-site/test2">Destinations</a></li>
+                    <li><a href="https://fuqiangfq1009.github.io/Mon-site/destination">Destinations</a></li>
                     <li><a href="#">Culture</a></li>
                     <li><a href="#">Conseils</a></li>
                     <li><a href="#">Contact</a></li>
