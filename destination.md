@@ -13,7 +13,7 @@
 
 **📌 Conseil** : Visiter tôt le matin pour éviter la foule
 
-**🔗Cliquez ici pour explorer davantage.
+🔗Cliquez ici pour explorer davantage.
 ---
 
 ## 🏮 Cité Interdite - Pékin
@@ -29,7 +29,7 @@
 - Le Palais de la Pureté Céleste
 - Le Jardin impérial
   
-**🔗Cliquez ici pour explorer davantage.
+🔗Cliquez ici pour explorer davantage.
 ---
 
 ## 🪖 Armée de Terre Cuite - Xi'an
@@ -47,7 +47,7 @@
 | N°2 | Chars et cavalerie |
 | N°3 | Poste de commandement |
 
-**🔗Cliquez ici pour explorer davantage.
+🔗Cliquez ici pour explorer davantage.
 ---
 
 ## 🏞️ Guilin & Yangshuo
@@ -62,7 +62,7 @@
 - 🚴 Randonnée à vélo à Yangshuo
 - 🎭 Spectacle "Impression Sanjie Liu"
 - 
-**🔗Cliquez ici pour explorer davantage.
+🔗Cliquez ici pour explorer davantage.
 ---
 
 ## 🐼 Chengdu - Sanctuaire des Pandas
@@ -73,4 +73,4 @@
 **🕘 Meilleur moment** : 8h-10h (pandas actifs)
 **🎯 Expérience** : Volontariat possible
 
-**🔗Cliquez ici pour explorer davantage.
+🔗Cliquez ici pour explorer davantage.
