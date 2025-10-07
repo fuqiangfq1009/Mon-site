@@ -17,7 +17,8 @@
 
 ## 🏮 Cité Interdite - Pékin
 
-![Cité Interdite](https://example.com/forbidden-city.jpg)
+<img width="1200" height="801" alt="image" src="https://github.com/user-attachments/assets/56a934c7-ab80-466f-b1a8-2b135da0b88f" />
+
 
 **🕒 Horaires** : 8h30-17h00 (avril-octobre)
 **🎫 Billets** : 60 RMB (haute saison)
