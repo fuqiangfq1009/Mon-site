@@ -143,7 +143,7 @@
   </div>
 
   <footer>
-    <p>&copy; 2025 FU Qiang.</p>
+    <p>&copy; 2025 FU Qiang</p>
   </footer>
 
   <script>
