@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
@@ -68,7 +67,7 @@
         <div class="logo">Voyage en Chine</div>
         <ul class="nav-links">
           <li><a href="#" onclick="loadPage('accueil.html')">Accueil</a></li>
-          <li><a href="#" onclick="loadPage('destinations.html')">Destinations</a></li>
+          <li><a href="#" onclick="loadPage('destinations.md')">Destinations</a></li>
           <li><a href="#" onclick="loadPage('culture.html')">Culture</a></li>
           <li><a href="#" onclick="loadPage('conseils.html')">Conseils</a></li>
           <li><a href="#" onclick="loadPage('contact.html')">Contact</a></li>
@@ -78,7 +77,6 @@
   </header>
 
   <div class="container">
-    <!-- 这里就是首页显示的可滚动区域 -->
     <div id="content-area">
       <h1 style="color:#c00; margin-bottom:15px;">Découvrez la Chine</h1>
       <p>Un pays aux mille visages, riche en histoire et en paysages spectaculaires. 
@@ -88,7 +86,7 @@
   </div>
 
   <footer>
-    <p>&copy; 2025 Voyage en Chine. Tous droits réservés.</p>
+    <p>&copy; 2025 FU Qiang.</p>
   </footer>
 
   <script>
