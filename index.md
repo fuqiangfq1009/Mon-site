@@ -16,27 +16,27 @@
       max-width: 1200px; margin: 0 auto; padding: 0 15px;
     }
     header {
-      background-color: #c00; color: white; padding: 15px 0;
+      background-color: #c00; color: white; padding: 0;
     }
     nav {
       display: flex; justify-content: space-between; align-items: center;
-      height: 60px; /* 固定导航栏高度，方便对齐 */
+      height: 60px; /* 固定导航栏高度 */
     }
     .logo {
       font-size: 24px; font-weight: bold;
-      line-height: 60px; /* 与 nav 高度一致，垂直居中 */
     }
     .nav-links {
-      display: flex; list-style: none;
+      display: flex; list-style: none; height: 100%; margin: 0; padding: 0;
     }
     .nav-links li {
       margin-left: 20px;
+      display: flex;
+      align-items: center; /* 垂直居中 li 内文字 */
     }
     .nav-links a {
       color: white; text-decoration: none;
-      padding: 10px 15px;
-      display: flex; align-items: center; /* 垂直居中 */
-      line-height: 40px;
+      display: flex; align-items: center; height: 100%; /* 垂直居中 */
+      padding: 0 10px; /* 左右间距 */
     }
     .nav-links a:hover {
       background-color: #a00; border-radius: 3px;
@@ -50,8 +50,7 @@
       display: inline-block; background-color: #c00; color: white;
       padding: 12px 25px; border-radius: 5px;
       text-decoration: none; font-weight: bold;
-      position: relative;
-      z-index: 10; /* 确保按钮在最上层可点击 */
+      position: relative; z-index: 10;
     }
     .btn:hover {
       background-color: #a23;
@@ -64,7 +63,7 @@
       nav { flex-direction: column; height: auto; }
       .nav-links { margin-top: 15px; }
       .nav-links li { margin: 0 10px; }
-      .logo { line-height: normal; }
+      .logo { margin-bottom: 10px; }
     }
   </style>
 </head>
