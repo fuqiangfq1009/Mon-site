@@ -34,6 +34,6 @@ Le Nouvel An chinois est la fête la plus importante, marquée par les réunions
 
 ## 🏯 5. Patrimoine Architectural
 
-<img width="282" height="178" alt="image" src="https://github.com/user-attachments/assets/a5e0f4bc-eae7-4508-b860-6fa3daf9368b" />
+<img width="1920" height="1276" alt="image" src="https://github.com/user-attachments/assets/59274cda-f043-4722-bb4c-d8e6f754d415" />
 
 La Grande Muraille et la Cité interdite symbolisent la grandeur impériale. Les jardins classiques de Suzhou illustrent l'équilibre entre l'homme et la nature, et les maisons siheyuan (cours carrées) représentent l'architecture résidentielle traditionnelle.
