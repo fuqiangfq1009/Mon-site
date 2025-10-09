@@ -36,6 +36,7 @@
     .logo {
       font-size: 28px;
       font-weight: bold;
+      color: white;
     }
     .nav-links {
       display: flex;
@@ -123,7 +124,7 @@
       <nav>
         <div class="logo">Voyage en Chine</div>
         <ul class="nav-links">
-          <li><a href="#" onclick="loadPage('accueil.html')">Accueil</a></li>
+          <li><a href="#" onclick="loadPage('index.html')">Accueil</a></li>
           <li><a href="#" onclick="loadPage('destination.html')">Destinations</a></li>
           <li><a href="#" onclick="loadPage('culture.html')">Culture</a></li>
           <li><a href="#" onclick="loadPage('conseils.html')">Conseils</a></li>
@@ -143,13 +144,14 @@
   </div>
 
   <footer>
-    <p>&copy; 2025 FU Qiang</p>
+    <p>&copy; 2025 FU Qiang.</p>
   </footer>
 
   <script>
     function loadPage(page) {
       const content = document.getElementById('content-area');
       content.innerHTML = "<p style='text-align:center; color:#777;'>Chargement...</p>";
+
       fetch(page)
         .then(res => {
           if (!res.ok) throw new Error("Erreur " + res.status);
@@ -157,6 +159,7 @@
         })
         .then(html => {
           content.innerHTML = html;
+
           content.style.background = "#fff";
           content.style.borderRadius = "8px";
           content.style.padding = "40px 30px";
