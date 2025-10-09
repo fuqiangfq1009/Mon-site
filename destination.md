@@ -1,4 +1,4 @@
-# 🇨🇳 Destinations Classiques en Chine
+# Destinations Classiques en Chine
 
 ## 🏯 La Grande Muraille
 <img width="1200" height="851" alt="image" src="https://github.com/user-attachments/assets/cda45347-1817-4a20-8e8f-4ea2044c9b97" />
