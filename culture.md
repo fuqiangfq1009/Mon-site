@@ -18,7 +18,7 @@ La calligraphie et la peinture chinoise sont célèbres pour leur élégance et 
 
 ## 🍜 3. Gastronomie
 
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/360d3c09-6b26-4aa6-91c1-2f7a57923c05" />
+<img width="742" height="314" alt="image" src="https://github.com/user-attachments/assets/4ba7a184-78ae-4700-a65d-ac1c5f2e9318" />
 
 La cuisine chinoise allie saveurs, couleurs et équilibre nutritionnel. Des plats comme le canard laqué de Pékin, les dim sum et les raviolis sont appréciés internationalement. Le thé, en particulier le thé vert, occupe une place centrale dans les rituels sociaux.
 
@@ -34,6 +34,6 @@ Le Nouvel An chinois est la fête la plus importante, marquée par les réunions
 
 ## 🏯 5. Patrimoine Architectural
 
-<img width="1920" height="1276" alt="image" src="https://github.com/user-attachments/assets/59274cda-f043-4722-bb4c-d8e6f754d415" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b9d3f694-12c7-4903-867c-09e70aac91fc" />
 
 La Grande Muraille et la Cité interdite symbolisent la grandeur impériale. Les jardins classiques de Suzhou illustrent l'équilibre entre l'homme et la nature, et les maisons siheyuan (cours carrées) représentent l'architecture résidentielle traditionnelle.
