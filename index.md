@@ -67,7 +67,7 @@
         <div class="logo">Voyage en Chine</div>
         <ul class="nav-links">
           <li><a href="#" onclick="loadPage('accueil.html')">Accueil</a></li>
-          <li><a href="#" onclick="loadPage('destinations.md')">Destinations</a></li>
+          <li><a href="#" onclick="loadPage('https://fuqiangfq1009.github.io/Mon-site/destination')">Destinations</a></li>
           <li><a href="#" onclick="loadPage('culture.html')">Culture</a></li>
           <li><a href="#" onclick="loadPage('conseils.html')">Conseils</a></li>
           <li><a href="#" onclick="loadPage('contact.html')">Contact</a></li>
