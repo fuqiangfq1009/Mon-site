@@ -7,7 +7,8 @@
         <div style="flex: 1; min-width: 300px; max-width: 450px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
             <h2>Informations de contact</h2>
             <div style="display: flex; align-items: center; margin-bottom: 20px; border-bottom: 1px solid #eee; padding-bottom: 15px;">
-                <img src="cartoon-placeholder.png" alt="Photo de profil de FU Qiang" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-right: 15px; border: 3px solid #c00;">
+                <img src="cartoon-placeholder.png" alt="<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/f2ea003b-26d4-4f8d-88ac-44463960fbac" />
+" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-right: 15px; border: 3px solid #c00;">
                 <div>
                     <h3 style="color: #c00; margin-bottom: 5px;">FU Qiang</h3>
                     <p style="color: #555; font-size: 16px;">Créateur du site / Guide</p>
@@ -20,7 +21,9 @@
             
             <h3 style="color: #c00; margin-top: 30px;">Suivez-nous !</h3>
             <img src="qrcode-placeholder.png" alt="QR Code" style="width: 120px; height: 120px; display: block; margin-top: 15px; border: 1px solid #c00;">
-            <small style="color: #777;">Scannez pour nous ajouter sur WeChat/WhatsApp.</small>
+            <small style="color: #777;">Scannez pour m'ajouter sur WeChat/WhatsApp.![IMG_6637](https://github.com/user-attachments/assets/04c053d5-66a6-4e32-b1b0-9144f64beaf5)
+![Uploading image.png…]()
+</small>
         </div>
         
         <div style="flex: 1; min-width: 300px; max-width: 600px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff;">
