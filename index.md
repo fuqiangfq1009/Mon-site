@@ -45,11 +45,13 @@
       background: #fff; border-radius: 5px;
       padding: 20px; margin: 30px 0;
       height: 500px; overflow-y: auto;
+      text-align: center; /* 按钮居中 */
     }
     .btn {
       display: inline-block; background-color: #c00; color: white;
       padding: 12px 25px; border-radius: 5px;
       text-decoration: none; font-weight: bold;
+      margin: 20px auto 0 auto;
       position: relative; z-index: 10;
     }
     .btn:hover {
@@ -74,7 +76,7 @@
         <div class="logo">Voyage en Chine</div>
         <ul class="nav-links">
           <li><a href="#" onclick="loadPage('accueil.html')">Accueil</a></li>
-          <li><a href="#" onclick="loadPage('https://fuqiangfq1009.github.io/Mon-site/destination')">Destinations</a></li>
+          <li><a href="https://fuqiangfq1009.github.io/Mon-site/destination" target="_blank">Destinations</a></li>
           <li><a href="#" onclick="loadPage('culture.html')">Culture</a></li>
           <li><a href="#" onclick="loadPage('conseils.html')">Conseils</a></li>
           <li><a href="#" onclick="loadPage('contact.html')">Contact</a></li>
