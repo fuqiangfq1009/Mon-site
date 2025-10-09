@@ -20,9 +20,11 @@
     }
     nav {
       display: flex; justify-content: space-between; align-items: center;
+      height: 60px; /* 固定导航栏高度，方便对齐 */
     }
     .logo {
       font-size: 24px; font-weight: bold;
+      line-height: 60px; /* 与 nav 高度一致，垂直居中 */
     }
     .nav-links {
       display: flex; list-style: none;
@@ -31,7 +33,10 @@
       margin-left: 20px;
     }
     .nav-links a {
-      color: white; text-decoration: none; padding: 5px 10px;
+      color: white; text-decoration: none;
+      padding: 10px 15px;
+      display: flex; align-items: center; /* 垂直居中 */
+      line-height: 40px;
     }
     .nav-links a:hover {
       background-color: #a00; border-radius: 3px;
@@ -45,6 +50,8 @@
       display: inline-block; background-color: #c00; color: white;
       padding: 12px 25px; border-radius: 5px;
       text-decoration: none; font-weight: bold;
+      position: relative;
+      z-index: 10; /* 确保按钮在最上层可点击 */
     }
     .btn:hover {
       background-color: #a23;
@@ -54,9 +61,10 @@
       text-align: center; padding: 20px 0; margin-top: 30px;
     }
     @media (max-width: 768px) {
-      nav { flex-direction: column; }
+      nav { flex-direction: column; height: auto; }
       .nav-links { margin-top: 15px; }
       .nav-links li { margin: 0 10px; }
+      .logo { line-height: normal; }
     }
   </style>
 </head>
@@ -81,7 +89,7 @@
       <h1 style="color:#c00; margin-bottom:15px;">Découvrez la Chine</h1>
       <p>Un pays aux mille visages, riche en histoire et en paysages spectaculaires. 
          Explorez la culture millénaire et les merveilles naturelles de la Chine.</p>
-      <a href="https://fr.wikipedia.org/wiki/Chine" class="btn">Commencer l'aventure</a>
+      <a href="https://fr.wikipedia.org/wiki/Chine" target="_blank" class="btn">Commencer l'aventure</a>
     </div>
   </div>
 
