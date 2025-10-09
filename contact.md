@@ -19,8 +19,8 @@
             
             <h3 style="color: #c00; margin-top: 30px;">Suivez-nous !</h3>
             <img src="qrcode-placeholder.png" alt="QR Code" style="width: 120px; height: 120px; display: block; margin-top: 15px; border: 1px solid #c00;">
-            <small style="color: #777;">Scannez pour m'ajouter sur WhatsApp.![IMG_6637](https://github.com/user-attachments/assets/04c053d5-66a6-4e32-b1b0-9144f64beaf5)
-![Uploading image.png…]()
+            <small style="color: #777;">Scannez pour m'ajouter sur WhatsApp.<img width="2000" height="1047" alt="image" src="https://github.com/user-attachments/assets/416fc94f-e529-491d-b2b2-88dd5ef11eba" />
+
 </small>
         </div>
         
