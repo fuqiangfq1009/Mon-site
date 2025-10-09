@@ -1,7 +1,8 @@
 # 🇨🇳 Destinations Classiques en Chine
 
 ## 🏯 La Grande Muraille
-![696 jpg!list1x](https://github.com/user-attachments/assets/db33b0b3-1c71-4799-aaa4-746f3c519063)
+<img width="1200" height="851" alt="image" src="https://github.com/user-attachments/assets/cda45347-1817-4a20-8e8f-4ea2044c9b97" />
+
 
 **📍 Localisation** : Nord de la Chine
 **⭐ Chef-d'œuvre** : Patrimoine mondial de l'UNESCO
@@ -44,10 +45,8 @@
 
 ### Les trois fosses :
 | Fosse | Caractéristique |
-|-------|-----------------|
-| N°1 | 6 000 soldats en formation |
-| N°2 | Chars et cavalerie |
-| N°3 | Poste de commandement |
+Les soldats en terre cuite se trouvent à Xi’an, en Chine. Ils ont été construits il y a plus de deux mille ans, sous la dynastie Qin, pour protéger le premier empereur, Qin Shi Huang, dans sa tombe.
+Chaque statue est différente et représente des soldats, des chevaux et des chars. Aujourd’hui, c’est un site archéologique très célèbre et un symbole important de la culture chinoise.
 
 [🔗Cliquez ici pour explorer davantage.](https://whc.unesco.org/fr/list/441/?utm_source=chatgpt.com)
 
