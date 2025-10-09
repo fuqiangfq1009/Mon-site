@@ -156,9 +156,7 @@
           return res.text();
         })
         .then(html => {
-          // 只替换内容区，保留导航栏
           content.innerHTML = html;
-          // 给动态加载的页面内容也加统一样式
           content.style.background = "#fff";
           content.style.borderRadius = "8px";
           content.style.padding = "40px 30px";
