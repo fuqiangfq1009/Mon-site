@@ -24,6 +24,7 @@
       position: sticky;
       top: 0;
       z-index: 1000;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.2);
     }
     nav {
       display: flex;
@@ -155,8 +156,14 @@
           return res.text();
         })
         .then(html => {
-          // 只替换内容区，不影响导航栏
+          // 只替换内容区，保留导航栏
           content.innerHTML = html;
+          // 给动态加载的页面内容也加统一样式
+          content.style.background = "#fff";
+          content.style.borderRadius = "8px";
+          content.style.padding = "40px 30px";
+          content.style.boxShadow = "0 4px 15px rgba(0,0,0,0.1)";
+          content.style.textAlign = "center";
         })
         .catch(err => {
           content.innerHTML = "<p style='color:red;'>Impossible de charger : " + err.message + "</p>";
