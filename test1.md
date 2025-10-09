@@ -1,16 +1,7 @@
 # Les conseils utiles
 Voici des recommandations pratiques pour profiter pleinement de votre séjour en Chine :
 
-4. Tourisme Responsable
-
-Écovolontariat : Programmes de protection des pandas au Sichuan.
-
-Communautés locales : Séjour chez l'habitant dans les villages Miao ou Dong.
-
-Patrimoine fragile : Respectez les sites historiques et naturels protégés.
-
-5. Adaptation Culturelle
-
+---
 
 ##  1. Gestion du Budget
 
@@ -23,7 +14,7 @@ Cartes de paiement : Prévoyez du liquide, les cartes étrangères sont peu acce
 Budget quotidien : Compter 50-100€/jour selon le confort souhaité.
 
 
----
+
 
 ## 2. Communication et Réseaux
 
