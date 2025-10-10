@@ -4,7 +4,6 @@
   <title>Destinations - Voyage en Chine</title>
 </head>
 <body>
-  <div id="content-area">
     <h1>Destinations Classiques en Chine</h1>
 
     <h2>🏯 La Grande Muraille</h2>
