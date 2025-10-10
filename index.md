@@ -158,7 +158,14 @@
           return res.text();
         })
         .then(html => {
-          content.innerHTML = html;
+          const parser = new DOMParser();
+          const doc = parser.parseFromString(html, "text/html");
+          const newContent = doc.querySelector("#content-area");
+          if (newContent) {
+            content.innerHTML = newContent.innerHTML;
+          } else {
+            content.innerHTML = "<p style='color:red;'>Section introuvable dans " + page + "</p>";
+          }
         })
         .catch(err => {
           content.innerHTML = "<p style='color:red;'>Impossible de charger : " + err.message + "</p>";
