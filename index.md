@@ -124,11 +124,11 @@
       <nav>
         <div class="logo">Voyage en Chine</div>
         <ul class="nav-links">
-          <li><a href="#" onclick="loadPage('accueil.html')">Accueil</a></li>
-          <li><a href="#" onclick="loadPage('destinations.html')">Destinations</a></li>
-          <li><a href="#" onclick="loadPage('culture.html')">Culture</a></li>
-          <li><a href="#" onclick="loadPage('conseils.html')">Conseils</a></li>
-          <li><a href="#" onclick="loadPage('contact.html')">Contact</a></li>
+          <li><a href="#" onclick="loadPage('accueil.md')">Accueil</a></li>
+          <li><a href="#" onclick="loadPage('destination.md')">Destinations</a></li>
+          <li><a href="#" onclick="loadPage('culture.md')">Culture</a></li>
+          <li><a href="#" onclick="loadPage('conseils.md')">Conseils</a></li>
+          <li><a href="#" onclick="loadPage('contact.md')">Contact</a></li>
         </ul>
       </nav>
     </div>
@@ -147,6 +147,9 @@
     <p>&copy; 2025 FU Qiang.</p>
   </footer>
 
+  <!-- 引入 marked.js 库 -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  
   <script>
     function loadPage(page) {
       const content = document.getElementById('content-area');
@@ -157,15 +160,16 @@
           if (!res.ok) throw new Error("Erreur " + res.status);
           return res.text();
         })
-        .then(html => {
-          const parser = new DOMParser();
-          const doc = parser.parseFromString(html, "text/html");
-          const newContent = doc.querySelector("#content-area");
-          if (newContent) {
-            content.innerHTML = newContent.innerHTML;
-          } else {
-            content.innerHTML = "<p style='color:red;'>Section introuvable dans " + page + "</p>";
-          }
+        .then(md => {
+          // 使用 marked.js 将 Markdown 转 HTML
+          content.innerHTML = marked(md);
+
+          // 保持样式
+          content.style.background = "#fff";
+          content.style.borderRadius = "8px";
+          content.style.padding = "40px 30px";
+          content.style.boxShadow = "0 4px 15px rgba(0,0,0,0.1)";
+          content.style.textAlign = "center";
         })
         .catch(err => {
           content.innerHTML = "<p style='color:red;'>Impossible de charger : " + err.message + "</p>";
