@@ -1,8 +1,6 @@
 # Les conseils utiles
 Voici des recommandations pratiques pour profiter pleinement de votre séjour en Chine :
 
----
-
 ##  1. Gestion du Budget
 
 <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/c77a9e33-83ad-440e-998d-2540f18fe6c0" />
