@@ -1,6 +1,8 @@
 # La Culture Chinoise
 Avec plus de 5 000 ans d'histoire, la culture chinoise est l'une des plus anciennes et des plus riches du monde. Voici ses aspects principaux :
 
+  <div id="content-area">
+    
 ##  ☯️ 1. Philosophie et Sagesse
 <img width="1080" height="464" alt="image" src="https://github.com/user-attachments/assets/6758b5e5-0ad1-40b3-a2ff-c8a513bec83c" />
 
