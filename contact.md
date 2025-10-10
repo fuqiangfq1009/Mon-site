@@ -1,4 +1,3 @@
-<div class="contact-page">
     <h1>Contactez-moi</h1>
     <p>Je suis toujours là pour vous aider à planifier votre voyage en Chine. N'hésitez pas à m'envoyer un message !</p>
     
