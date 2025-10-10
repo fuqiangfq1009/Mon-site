@@ -147,7 +147,7 @@
     <p>&copy; 2025 FU Qiang.</p>
   </footer>
 
-  <!-- 引入 marked.js 库 -->
+  <!-- 引入兼容浏览器的 marked UMD 版本 -->
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   
   <script>
@@ -161,8 +161,8 @@
           return res.text();
         })
         .then(md => {
-          // 使用 marked.js 将 Markdown 转 HTML
-          content.innerHTML = marked(md);
+          // 使用 window.marked 解析 Markdown
+          content.innerHTML = window.marked(md);
 
           // 保持样式
           content.style.background = "#fff";
