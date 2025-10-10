@@ -125,7 +125,7 @@
         <div class="logo">Voyage en Chine</div>
         <ul class="nav-links">
           <li><a href="#" onclick="loadPage('accueil.html')">Accueil</a></li>
-          <li><a href="#" onclick="loadPage('destination.html')">Destinations</a></li>
+          <li><a href="#" onclick="loadPage('destinations.html')">Destinations</a></li>
           <li><a href="#" onclick="loadPage('culture.html')">Culture</a></li>
           <li><a href="#" onclick="loadPage('conseils.html')">Conseils</a></li>
           <li><a href="#" onclick="loadPage('contact.html')">Contact</a></li>
@@ -158,15 +158,7 @@
           return res.text();
         })
         .then(html => {
-          // 只替换内容区，不影响 header
           content.innerHTML = html;
-
-          // 统一样式，防止覆盖导航栏
-          content.style.background = "#fff";
-          content.style.borderRadius = "8px";
-          content.style.padding = "40px 30px";
-          content.style.boxShadow = "0 4px 15px rgba(0,0,0,0.1)";
-          content.style.textAlign = "center";
         })
         .catch(err => {
           content.innerHTML = "<p style='color:red;'>Impossible de charger : " + err.message + "</p>";
