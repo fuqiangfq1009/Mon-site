@@ -22,10 +22,4 @@ Scannez pour m’ajouter sur WhatsApp ou WeChat.
 
 ---
 
-## 📨 Envoyez-moi un message
-
-*(Fonction de formulaire désactivée sur ce site. Vous pouvez m’écrire directement par email.)*
-
----
-
 Merci pour votre visite et à très bientôt en Chine 🇨🇳
