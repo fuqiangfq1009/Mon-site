@@ -17,8 +17,8 @@
             <p style="margin-bottom: 20px;"><strong style="color: #c00;">Adresse :</strong> UBO, 3, rue Matthieu-Gallou, 29238 Brest Cedex 3</p>
             
             <h3 style="color: #c00; margin-top: 30px;">Suivez-nous !</h3>
-            <img src="qrcode-placeholder.png" alt="QR Code" style="width: 120px; height: 120px; display: block; margin-top: 15px; border: 1px solid #c00;">
-            <img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/1c79efb8-d7c0-4b38-8718-714981dc52a9" />
+            <img src="<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/5376c76e-0da4-42f2-a802-09611626f08e" />
+" alt="QR Code" style="width: 120px; height: 120px; display: block; margin-top: 15px; border: 1px solid #c00;">
 Scannez pour m'ajouter sur WhatsApp.
         
         <div style="flex: 1; min-width: 300px; max-width: 600px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff;">
