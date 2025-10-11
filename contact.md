@@ -20,9 +20,6 @@
             <img src="qrcode-placeholder.png" alt="QR Code" style="width: 120px; height: 120px; display: block; margin-top: 15px; border: 1px solid #c00;">
             <img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/1c79efb8-d7c0-4b38-8718-714981dc52a9" />
 Scannez pour m'ajouter sur WhatsApp.
-
-</small>
-        </div>
         
         <div style="flex: 1; min-width: 300px; max-width: 600px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff;">
             <h2>Envoyez-nous un message rapide</h2>
