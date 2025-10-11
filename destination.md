@@ -59,6 +59,5 @@
     <p><strong>🕘 Meilleur moment</strong> : 8h-10h (pandas actifs)<br>
        <strong>🎯 Expérience</strong> : Volontariat possible</p>
     <p><a href="https://www.panda.fr/" target="_blank">🔗 Cliquez ici pour explorer davantage</a></p>
-  </div>
 </body>
 </html>
