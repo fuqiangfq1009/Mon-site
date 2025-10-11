@@ -16,6 +16,7 @@ N'hésitez pas à m'envoyer un message !
 
 ## 💬 Réseaux et QR Code
 
+<div align="center">
 <img width="200" alt="QR Code" src="https://github.com/user-attachments/assets/5376c76e-0da4-42f2-a802-09611626f08e" />
 
 Scannez pour m’ajouter sur WhatsApp ou WeChat.
