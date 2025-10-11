@@ -31,7 +31,6 @@ nav { display:flex; justify-content:space-between; align-items:center; height:60
 #content-area pre { background:#f0f0f0; padding:10px; border-radius:6px; overflow-x:auto; }
 #content-area code { background:#f0f0f0; padding:2px 5px; border-radius:4px; }
 
-/* 按钮居中 */
 #content-area a.btn {
     display:block;
     margin:20px auto;
@@ -101,7 +100,6 @@ Explorez la culture millénaire et les merveilles naturelles de la Chine.</p>
 function loadPage(page) {
   const content = document.getElementById('content-area');
 
-  // Accueil 单独处理，不请求文件
   if(page === 'accueil.md') {
     content.innerHTML = `
       <h1>Découvrez la Chine</h1>
